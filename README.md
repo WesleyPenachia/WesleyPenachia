@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # 👋 Olá, eu sou Wesley Penachia!
 
 [![GitHub followers](https://img.shields.io/github/followers/seuusuario?label=Follow&style=social)](https://github.com/WesleyPenachia)
@@ -9,8 +9,6 @@
 ## 🚀 Sobre Mim
 
 Sou um desenvolvedor fullstack apaixonado por criar experiências digitais dinâmicas e intuitivas. Meu foco está em usar as tecnologias mais recentes para construir aplicações que não apenas funcionam bem, mas também encantam os usuários.
-
-![Banner do Projeto](link-da-imagem-de-banner)
 
 ---
 
@@ -23,19 +21,13 @@ Sou um desenvolvedor fullstack apaixonado por criar experiências digitais dinâ
 
 - **Backend:**
   - Node.js
-  - Express.js
-  - MongoDB, PostgreSQL
+  - PHP
+  - Java
+  - MongoDB, PostgreSQL, SQL Server, MySQL
 
 - **Ferramentas:**
   - Git, Docker
-  - Jest, Mocha
-
----
-
-## 📈 Projetos em Destaque
-
-
-![GIF de Demonstração](link-do-gif)
+  - Jest
 
 ---
 
